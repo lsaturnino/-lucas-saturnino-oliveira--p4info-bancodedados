@@ -1,0 +1,35 @@
+A técnica de modelagem de dados mais utilizada é a abordagem Entidade-Relacionamento(ER). Essa 
+abordagem foi criada em 1976 por Peter Chen (https://en.wikipedia.org/wiki/Peter_Chen).
+Um Modelo Entidade-Relacionamento (Modelo ER) pode ser considerado como um padrão de fato para 
+a modelagem conceitual.
+
+Defina os seguintes conceitos centrais da abordagem ER:
+a) Entidade;
+*Resposta: Entidade é um conjuto de objetos da realidade, sejam eles objetos concretos ou abstratos, 
+modelada sobre os quais deseja-se guardar informações no banco de dados.
+
+b) Relacionamento;
+*Resposta: Relacionamento especifica as associações entre objetos. Em outras palavras, é um conjuto 
+de associações entre as ocorrências de entidades.
+
+c) Atributo;
+*Resposta: É uma especificação de propriedade(s) de entidade(s). Ou seja, é um dado que é associado
+a cada ocorrências de uma entidade ou de um relacionamento.
+
+d) Dominio de um Atributo;
+*Resposta: É um conjuto de valores que um determidado atributo poderá assumir.
+
+e) Generalização/especialização;
+*Resposta: É a possibilidade de atribuir propriedades particulares a um subconjunto das ocorrências
+de uma entidade genérica. Está associado a idéia de herança de propriedades, pois ela herda as 
+propriedades da ocorrência da entidade generica que a corresponde. Ela é classifcada por dois tipos,
+deles: generalização/especialização total ou parcial e generalização/especialização exclusiva ou
+compatilhada.
+
+f) Entidade Associativa;
+*Resposta: É quando uma redefinição de um relacionamento, que passa também a ser tratado como uma
+entidade.
+
+g) Cardinalidade de um Atributo.
+*Resposta: Ela defini a quantidade de valores que um atributo pode está associado a uma ocorrência
+da entidade/relacioamento no qual ele está inserido.

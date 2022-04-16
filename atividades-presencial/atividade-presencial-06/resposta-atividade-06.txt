@@ -1,0 +1,11 @@
+Uma Entidade Associativa ocorre em relacionamentos n:n.
+Pede-se:
+a) Demonstre uma Entidade Associativa e descreva seus atributos.
+Vários professores ministra aulas para várias disciplinas, para se dá a frequência dos alunos.
+Ou seja, a entidade PROFESSOR está relacionado a uma entidade DISCIPLINA, essa entidade de 
+relacionamento é AULA. Para presta a frequência, é nescessário transformar o relacionamento AULA
+para uma entidade associativa AULA, onde a ela é relacionada entidade ALUNO. O fato para que ela seja
+uma entidade associativa, é que é impossibilitado a entidade DISCIPLINA forneça a frequência, como
+também a entidade PROFESSOR. Ou seja, precisa transformar o relacionamento AULA para também uma 
+entidade. A entidade associativa AULA e ALUNO possui como relacionamento a FREQUÊCIA. Os atributos 
+da entidade associativa AULA, é número da aula, a hora da aula, número da turma.

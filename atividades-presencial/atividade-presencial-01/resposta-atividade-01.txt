@@ -1,0 +1,16 @@
+Pesquise na bibliografia disponibilizada os seguintes conceitos:
+1) Dado
+*Resposta: Componente básico de um arquivo em um sistemas de arquivos. Ele é a menor unidade de dados
+identificável que tem significado no mundo real. Em outras palavras, são fatos em uma forma primária 
+que podem ser armazendas em algum meio.
+
+2) Informação
+*Resposta: São os fatos que, de maneira organizada, consegue transmitir um significado. Tomando como
+base a questão anterior, podemos dizer que informações são dados colocados em contexto.
+
+3) Arquivo Convencional
+*Resposta: É uma coleção de registros de um mesmo tipo. Os sistemas de banco de dados baseia-se em ar-
+quivos e expandem suas definições.
+
+4) Banco de Dados
+*Resposta: Conjuto de dados integrados que tem por objetivo atender a uma comunidade de usuários.

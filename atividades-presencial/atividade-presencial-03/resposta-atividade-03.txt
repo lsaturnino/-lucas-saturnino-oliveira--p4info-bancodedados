@@ -1,0 +1,14 @@
+Descreva as fases de um Projeto de Banco de Dados:
+1) Modelagem Conceitual
+*Resposta: Fase em que se constroe um modelo conceitual do projeto de banco de dados, no formato 
+de um diagrama ER(entidade-relacionameto). Com este modelo obtem-se as necessidades da organinação 
+em termos de armazenamento de dados sem necessariamente fazer sua implementação.
+
+2) Projeto Lógico
+*Resposta: Nessa fase tem, como objetivo, transformar o modelo conceitual da fase anterior(modelagem
+conceitual) em um modelo lógico. O medelo lógico defini como o banco de dados será implementado em um
+sistema de Gerência de banco de dados.
+
+3) Projeto Físico
+*Resposta: Nesta etapa, o modelo do banco de dados é enriquecido com detalhes que possam melhorar o
+desempenho do banco de dados, sem que haja modificações em sua funcionalidade.

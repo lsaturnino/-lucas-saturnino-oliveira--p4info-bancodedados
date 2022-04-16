@@ -1,0 +1,37 @@
+Quanto a Abordagem Relacional, descreva os seguintes conceitos:
+a) Tabela
+*Resposta: É um conjunto não ordenado de linhas/tuplas, onde cada linha é composta por campos/valor
+do atributo.
+
+b) Chave Primária
+*Resposta: Ela é uma coluna ou uma combinação de colunas(nesse caso a chave primária ela é composta)
+onde os valores distinguem uma linha das outras linhas da tabela.
+
+c) Chave Estrangeira
+*Resposta: Ela é uma coluna ou uma combinação de colunas, onde os valores aparecem obrigatoriamene na
+chave primária de uma tabela. Ela permite a implementação de relacionamentos em um BD relacional.
+
+d) Chave Alternativa
+*Resposta: Quando, em alguns casos, mais de uma coluna ou combinações de colunas servem para distinguir
+as linhas das outras. Uma coluna é escolhida como a chave primária, as outras são as chaves alternativas.
+
+e) Dominio da Coluna
+*Resposta: Cada coluna da tabela deve ser especificado um conjuto de valores em que os campos da tal 
+coluna deva assumir. Então o Domínio de coluna, nada mais é que um conjunto de valores na qual podem
+aparecer em uma coluna/atributo.
+
+f) Integridade de Dominio
+*Resposta: Especificam que o valor de um campo tenha que está de acordo com a definição de valores 
+admitidos para a coluna/domínio da coluna.
+
+g) Integridade de Vazio
+*Resposta: É especificado se a coluna possui campos obrigatório ou opcional. Ou  seja, se a coluna
+pode ou não ser vazia. Uma chave primária jamais deverá serem vazias.
+
+h) Integridade de Chave
+*Resposta: Essa restrição define que os valores da chave primária e das alternativas devam serem 
+exclusivas.
+
+i) Integridade Referencial
+*Resposta: Essa restrição define que os valores dos campos da coluna que aparecem em uma chave 
+estrangeira deva aparecer na chave primária de uma tabela que está sendo referenciada.

@@ -1,0 +1,9 @@
+Pesquise na bibliografia disponível. Defina o que é:
+1) Sistema Isolado
+*Resposta: A cada uma função das funções for informatizada de forma separada, sem considerar a 
+informatização das demais funções, pode ocorrer que, para cada uma das funções, seja criado um arquivo
+separado.
+
+2) Sistema Integrado
+*Resposta: Compartilhamento de dados. Nesta forma de processamento, cada informação é armazenada uma 
+única vez, sendo acessada pelos vários sistemas que dela necessitam.

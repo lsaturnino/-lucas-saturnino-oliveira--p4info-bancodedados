@@ -1,0 +1,8 @@
+Explique a seguinte afirmação: "Um Modelo deve refletir o seu aspecto temporal".
+*Resposta: Algumas aplicações se faz nescessário que o banco de dados armazene o histórico de
+alterações de informações que se foram dados. Informações passadas de um banco de dados podem ser
+importantes, por exemplo: uma empresa forneça os ultimos salários de um funcionário para que ele faça
+sua declaração de imposto de renda, para isso, a empresa tem que armazenar os valores dos salários 
+desse funcionário. O modelo de um banco de dados que armazena apenas valores atuais de uma informação, 
+se difere do modelo do banco de dados que armazena o histórico da informação. Tendo em vista isso, se 
+faz nescessário que o modelo de banco de dados leve em consideração o seu aspecto temporal.
