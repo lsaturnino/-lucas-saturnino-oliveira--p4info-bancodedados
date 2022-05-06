@@ -1,0 +1,27 @@
+//criando uma tabela
+CREATE TABLE "TB_EMPREGADO" (
+        "ID"        INTEGER NOT NULL,
+        "NOME"        TEXT NOT NULL,
+        "DATA_NASC"        TEXT NOT NULL,
+	"FUNCAO"        TEXT NOT NULL,
+        PRIMARY KEY("ID" AUTOINCREMENT)
+);
+
+//CREAT ACIMA, AGORA INSERIDO DADOS:
+INSERT INTO TB_EMPREGADO (NOME, DATA_NASC, FUNCAO)
+VALUES('Antonio Bezerra', '03/05/1958', Auxiliar Administrativo);
+
+//READ - LER TABELA(S)
+SELECT *
+FROM
+TB_EMPREGADO; 
+//TODOS OS REGISTROS DA TB_EMPREGADO
+
+//UDPDATE, atualiza os atribudos de uma dada tabela
+UPDATE TB_EMPREGADO
+SET NOME = 'José Bonifacio'
+WHERE ID = 1;
+
+//DELETE, deleta registro:
+DELETE FROM TB_EMPREGADO
+WHERE ID = 1
